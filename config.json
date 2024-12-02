@@ -1,0 +1,11 @@
+{
+  "edgar": {
+    "tickers_url": "https://www.sec.gov/files/company_tickers.json",
+    "filing_end_point": "https://data.sec.gov/submissions/CIK{cik}.json",
+    "headers":{"User-Agent": "rithvik@tamu.edu"}
+  },
+  "sec_api" :{
+    "pdf_endpoint": "https://api.sec-api.io/filing-reader"
+
+  }
+}
